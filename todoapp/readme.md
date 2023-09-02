@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5df0ffe0-7beb-4577-a37a-bb8b9df3800c/deploy-status)](https://app.netlify.com/sites/empreiteirasantos/deploys)

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19231972404",
+    "firebase_url": "https://empreiteira-santos-default-rtdb.firebaseio.com",
+    "project_id": "empreiteira-santos",
+    "storage_bucket": "empreiteira-santos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19231972404:android:2c7f8a67e675eb7bb9be61",
+        "android_client_info": {
+          "package_name": "Empreiteira.Santos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19231972404-ngmt92ui75bdvkl9mgc4ig3i32np62l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXrEbOJEYjPaRM6VizVCJDuot-5i3f50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19231972404-ngmt92ui75bdvkl9mgc4ig3i32np62l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
